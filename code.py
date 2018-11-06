@@ -5,3 +5,4 @@ def do_something():
     Str4 = "Blue Fish"
     something = Str1+Str2+Str3+Str4
     print(something)# this will make it much easier in future problems to see that something is actually happening
+    Str5 = "Teach a man fishing... and this is what happens"
