@@ -1,0 +1,1 @@
+This file simply prints out a Dr. Seuss phrase. Enjoy!
